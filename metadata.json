@@ -1,0 +1,17 @@
+{
+  "name": "$BENNY",
+  "symbol": "BENNY",
+  "description": "The official token for the $BENNY project.",
+  "image": "https://github.com/multijosh/benny_icon/blob/main/Benny_icon.png?raw=true",
+  "external_url": "https://bennythetoken.com", // Link to your website
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Token"
+    }
+  ],
+  "social": {
+    "twitter": "https://x.com/bennythetoken",
+    "telegram": "https://t.me/bennythetoken"
+  }
+}
